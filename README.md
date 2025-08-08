@@ -7,7 +7,7 @@ It allows viewers to explore patterns in the platform's content distribution fro
 ## 🛠 Tools Used
 - **Power BI** – For building the interactive dashboard
 - **Microsoft Bing Maps** – For geographic visualizations
-- **Dataset** – Amazon Prime Video content dataset (source: [add source link if public])
+- **Dataset** – Amazon Prime Video content dataset- [Kaggle – Amazon Prime Video Dataset](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 
 ## 📊 Key Metrics Displayed
 - **Total Titles**: 9,655
